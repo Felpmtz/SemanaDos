@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SemanaDos</string>
+    <string name="INombre">Nombre</string>
+    <string name="ITelefono">Teléfono</string>
+    <string name="IEmail">E-mail</string>
+    <string name="IDescripcion">Descripción del contacto</string>
+    <string name="IFecha">Fecha</string>
+    <string name="Oprimir">Oprima el boton</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="TituloActD">Detalles del Contacto</string>
+    <string name="Editar">Editar</string>
+
+</resources>
